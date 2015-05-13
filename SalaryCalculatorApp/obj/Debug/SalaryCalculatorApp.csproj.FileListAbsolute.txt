@@ -1,0 +1,9 @@
+G:\Shakil(Dotnet)\My Test Dot Net\11.05.15 (Day 12)\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+G:\Shakil(Dotnet)\My Test Dot Net\11.05.15 (Day 12)\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+G:\Shakil(Dotnet)\My Test Dot Net\11.05.15 (Day 12)\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+G:\Shakil(Dotnet)\My Test Dot Net\11.05.15 (Day 12)\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+G:\Shakil(Dotnet)\My Test Dot Net\11.05.15 (Day 12)\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Form1.resources
+G:\Shakil(Dotnet)\My Test Dot Net\11.05.15 (Day 12)\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+G:\Shakil(Dotnet)\My Test Dot Net\11.05.15 (Day 12)\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+G:\Shakil(Dotnet)\My Test Dot Net\11.05.15 (Day 12)\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+G:\Shakil(Dotnet)\My Test Dot Net\11.05.15 (Day 12)\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
